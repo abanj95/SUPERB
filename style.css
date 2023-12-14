@@ -10,6 +10,7 @@ html{
 .text{
     display: flex;
     justify-content: center;
+    flex-wrap: nowrap;
     color: #F724A5;
     text-shadow: slategray;
     text-transform:uppercase;
