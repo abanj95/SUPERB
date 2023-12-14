@@ -7,3 +7,16 @@ img{
 html{
     background-color: pink;
 }
+.text{
+    display: flex;
+    justify-content: center;
+    color: #F724A5;
+    text-shadow: slategray;
+    text-transform:uppercase;
+    background-color: white;
+}
+.pic2{
+    justify-content: center;
+    align-content: center;
+
+}
