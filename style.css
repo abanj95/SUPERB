@@ -10,6 +10,7 @@ html{
 .text{
     display: flex;
     justify-content: center;
+    font-size:10px;
     flex-wrap: nowrap;
     color: #F724A5;
     text-shadow: slategray;
